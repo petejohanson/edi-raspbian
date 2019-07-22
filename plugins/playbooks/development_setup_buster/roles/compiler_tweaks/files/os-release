@@ -1,7 +1,7 @@
-PRETTY_NAME="Raspbian GNU/Linux 9 (stretch)"
+PRETTY_NAME="Raspbian GNU/Linux 10 (buster)"
 NAME="Raspbian GNU/Linux"
-VERSION_ID="9"
-VERSION="9 (stretch)"
+VERSION_ID="10"
+VERSION="10 (buster)"
 ID=raspbian
 ID_LIKE=debian
 HOME_URL="http://www.raspbian.org/"
